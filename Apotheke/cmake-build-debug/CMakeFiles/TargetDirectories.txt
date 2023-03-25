@@ -1,0 +1,3 @@
+C:/Users/Emese/Documents/1CV/C++/Apotheke/cmake-build-debug/CMakeFiles/labor4.dir
+C:/Users/Emese/Documents/1CV/C++/Apotheke/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Emese/Documents/1CV/C++/Apotheke/cmake-build-debug/CMakeFiles/rebuild_cache.dir
